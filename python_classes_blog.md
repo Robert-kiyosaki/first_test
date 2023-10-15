@@ -3,6 +3,12 @@ Python is an “object-oriented programming language.” This means that almost 
 
 # Test comment 
 
+
+# HEll
+
+# Fuck 
+
+
 By the end of this tutorial you will be able to:
 
 Define what is a class
